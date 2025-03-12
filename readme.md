@@ -3,10 +3,10 @@
 An interactive **3D Earth model** built using **Three.js**. Rotate and explore the planet directly in your browser.
 
 ## 🔗 Live Demo
-[View Project](https://yourusername.github.io/your-repo/)
+[View Project](https://bandofgold.co.uk/earth)
 
 ## 🖼️ Project Preview
-![Earth Model Preview](https://yourusername.github.io/your-repo/screenshot.png)
+![Earth Model Preview](https://github.com/cbhsoftware/earth/blob/main/preview.png)
 
 ## 🛠️ Features
 - **Realistic 3D Earth** with texture mapping
